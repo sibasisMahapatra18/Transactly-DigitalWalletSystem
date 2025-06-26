@@ -40,9 +40,9 @@ To support currency conversion, this app integrates with [https://currencyapi.co
 | Language      | Java                     |
 | Framework     | Spring Boot              |
 | ORM           | Spring Data JPA + Hibernate |
-| Database      | PostgreSQL               |
+| Database      | Neon Postgres            |
 | Auth Method   | Basic Auth + BCrypt      |
-| API Docs      | Swagger (optional)       |
+| API Docs      | Postman                  |
 | Build Tool    | Maven                    |
 
 ## 📦 API Reference
@@ -263,9 +263,3 @@ This project is intended for demonstration and educational purposes only.
 Created by Sibasis Mahapatra.
 If you found this useful, feel free to fork, improve, or reuse.
 
-```
-
----
-
-
-```
